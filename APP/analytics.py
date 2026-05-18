@@ -1,4 +1,4 @@
-from APP.data_loader import load_data
+from data_loader import load_data
 
 customers, energy, chatbot, support = load_data()
 

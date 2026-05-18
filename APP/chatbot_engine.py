@@ -1,4 +1,4 @@
-from APP.analytics import (
+from analytics import (
     get_average_bill,
     get_average_energy_usage,
     get_automation_rate,
