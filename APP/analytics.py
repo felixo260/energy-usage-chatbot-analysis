@@ -27,3 +27,5 @@ def get_customer_usage(customer_id):
 
     return f"Customer {customer_id} average usage is {usage} kWh"
 
+def get_total_tickets():
+    return support.shape[0]
